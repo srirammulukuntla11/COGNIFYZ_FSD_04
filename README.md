@@ -47,9 +47,6 @@ cd COGNIFYZ_FSD_04
 3️⃣ **Open in browser**
 Open `index.html` in your browser
 
-## 📸 Preview
-*(Add screenshots of your project here for better presentation)*
-
 ## 🧠 Key Concepts Used
 - JavaScript DOM Manipulation
 - Event Handling
